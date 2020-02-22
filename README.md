@@ -16,6 +16,8 @@ DynamiCalculator has only been tested on Windows machines.
 - C++
 - MinGW\GCC C++ Compiler
 
+Special thanks to friends Jordan and Martin who spent time looking into some issues and helping me to get things working!
+
 <<< Contact >>>
 
 If you have any issues or questions, please contact me at the following;
