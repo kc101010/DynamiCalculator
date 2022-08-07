@@ -22,7 +22,7 @@ Special thanks to friends Jordan and Martin who spent time looking into some iss
 
 If you have any issues or questions, please contact me at the following;
 
-	kcTranslationServices@gmx.com
+	kcTranslationServices<(at)>gmx.com
 	
 	
 <<< Authored by Project Developer - Kyle Christie (kc101010) >>>
